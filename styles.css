@@ -1,0 +1,7 @@
+.hero-section{
+  height: 800px;
+  background-image: url("images/herobg3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+}
